@@ -37,8 +37,8 @@ Finally, you can interpret the model's results to gain insight into the relation
 ## Program:
 ```
 Program to implement the the Logistic Regression Model to Predict the Placement Status of Student.
-Developed by: IRFAN KHAN .N
-RegisterNumber:  212224230097
+Developed by: SHOBANA.B
+RegisterNumber:  212224230262
 ```python
 
 import pandas as pd
